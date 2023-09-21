@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.c3e757d3.css",
-    "main.js": "/react/static/js/main.a3f2081b.js",
+    "main.css": "/react/static/css/main.5c22456b.css",
+    "main.js": "/react/static/js/main.4f39eeee.js",
     "static/media/kitchen.jpg": "/react/static/media/kitchen.f720b0dfb615af4d29e0.jpg",
     "static/media/noodles.jpg": "/react/static/media/noodles.57e7275f2c3b456b810a.jpg",
     "static/media/chickenlegs.jpg": "/react/static/media/chickenlegs.b933155b4010a038f955.jpg",
@@ -11,14 +11,15 @@
     "static/media/dining.jpg": "/react/static/media/dining.9cb44b4adb5243c6cae2.jpg",
     "static/media/paneer.jpg": "/react/static/media/paneer.0c9c97e727fe6daded7e.jpg",
     "static/media/rolls.jpg": "/react/static/media/rolls.5a87d87c63e153ebb8a7.jpg",
+    "static/media/booking.svg": "/react/static/media/booking.a1789109f0b5ce12c13e07eb28aadbc9.svg",
     "static/media/light.svg": "/react/static/media/light.097fe93fa4bdf3183cc99c26e3c5c44b.svg",
     "index.html": "/react/index.html",
     "static/media/dark.svg": "/react/static/media/dark.1e1d62c8cc9efcead7ffba6ec0681677.svg",
-    "main.c3e757d3.css.map": "/react/static/css/main.c3e757d3.css.map",
-    "main.a3f2081b.js.map": "/react/static/js/main.a3f2081b.js.map"
+    "main.5c22456b.css.map": "/react/static/css/main.5c22456b.css.map",
+    "main.4f39eeee.js.map": "/react/static/js/main.4f39eeee.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3e757d3.css",
-    "static/js/main.a3f2081b.js"
+    "static/css/main.5c22456b.css",
+    "static/js/main.4f39eeee.js"
   ]
 }
